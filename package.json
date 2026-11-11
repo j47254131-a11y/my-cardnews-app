@@ -1,0 +1,9 @@
+{
+  "name": "pdf-cardnews",
+  "version": "1.0.0",
+  "description": "PDF 논문·보고서 쉬운 해설 & 카드뉴스 생성기 (Vercel 배포용)",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  }
+}
